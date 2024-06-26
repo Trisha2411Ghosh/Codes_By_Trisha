@@ -1,41 +1,23 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        int count = 0, oddCount = 0, result = 0;
-        unordered_map<int, int> countMap;
-        countMap[0] = 1;  // To handle the case when there are exactly k odd numbers from the start
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] % 2 != 0) {
-                oddCount++;
+    int helpMe(vector<int>nums,int k){
+        if(k<0) return 0;
+        int n=nums.size();
+        int l=0,r=0,sum=0,cnt=0;
+        while(r<n){
+            sum+=(nums[r]%2);
+            while(sum>k){
+                sum-=(nums[l]%2);
+                l++;
             }
-            if (countMap.find(oddCount - k) != countMap.end()) {
-                result += countMap[oddCount - k];
-            }
-            countMap[oddCount]++;
+            cnt=cnt+(r-l+1);
+            r++;
         }
-        
-        return result;
+        return cnt;
+    }
+
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return helpMe(nums,k)-helpMe(nums,k-1);
     }
 };
-
-
-// class Solution {
-// public:
-//     int numberOfSubarrays(vector<int>& nums, int k) {
-//         int n=nums.size();
-//         int count=0;
-//         int nice=0;
-//         int l=0,r=0;
-//         while(r<n){
-//             if(nums[r]%2!=0){
-//                 count++;
-//             }
-//             r++;
-//             if(count==k){
-//                     nice++;
-//                 }
-//         }
-//         return nice;
-//     }
-// };
