@@ -20,7 +20,7 @@ public:
         };
 
         // Find ancestors for each node
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; i++) {
             dfs(i, i);
         }
 
