@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
+| [1293-three-consecutive-odds](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
