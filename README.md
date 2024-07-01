@@ -43,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
