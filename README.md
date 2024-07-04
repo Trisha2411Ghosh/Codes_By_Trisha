@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
