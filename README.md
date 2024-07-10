@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1293-three-consecutive-odds) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
