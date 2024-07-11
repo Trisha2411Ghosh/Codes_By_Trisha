@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
@@ -111,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
