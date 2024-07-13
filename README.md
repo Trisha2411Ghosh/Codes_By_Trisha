@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2645-pass-the-pillow) |
@@ -118,7 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1818-maximum-score-from-removing-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
