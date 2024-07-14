@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
+| [0726-number-of-atoms](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0726-number-of-atoms) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
+| [0726-number-of-atoms](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1818-maximum-score-from-removing-substrings) |
