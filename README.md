@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0069-sqrtx) |
 | [1642-water-bottles](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2645-pass-the-pillow) |
