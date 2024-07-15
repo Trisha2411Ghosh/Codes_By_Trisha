@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
 | ------- |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
