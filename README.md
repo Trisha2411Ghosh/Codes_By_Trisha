@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2645-pass-the-pillow) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
