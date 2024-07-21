@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -168,4 +171,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Trisha2411Ghosh/Codes_By_Trisha/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
